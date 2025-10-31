@@ -1,4 +1,4 @@
-# Imapct of Remote Work on Employee Well-Being
+# Impact of Remote Work on Employee Well-Being
 ## Project Objective
 This project explores how remote, onsite and hybrid work arrangements influence employee demographics, mental health, productivity and overall well-being. 
 This analysis was performed using Power BI with insights gotten from multiple dimensions such as age, gender, work location and industry. 
